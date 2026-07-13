@@ -140,15 +140,7 @@ Passionate about designing digital systems, computer architecture, and exploring
 
 </p>
 
----
 
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrsoli916&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
