@@ -152,9 +152,9 @@ My goal is to become a professional **Digital IC Design Engineer**, specializing
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: *linkedin.com/in/amr-soliman19*
+- 💼 LinkedIn: *[https://github.com/amrsoli916](https://www.linkedin.com/in/amr-soliman19/)*
 - 📧 Email: *amrsoliman916@gmail.com*
-- 🌐 GitHub: **github.com/amrsoli916**
+- 🌐 GitHub: *[github.com/amrsoli916](https://github.com/amrsoli916)*
 
 ---
 
